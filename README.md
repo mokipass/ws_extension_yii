@@ -1,8 +1,4 @@
-# yii_extension
-Mokipass Web Service extension
-
-
-
+# Mokipass Web Service extension
 
 #Usage
 
