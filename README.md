@@ -6,8 +6,9 @@ Mokipass Web Service extension
 
 #Usage
 
-// application components in protected/config
-	'components'=>array(
+//application components in protected/config
+
+'components'=>array (
     
     'Mokipass'=>array (
         'class'=>'application.extensions.Mokipass.Mokipass',
