@@ -3,15 +3,15 @@ MOKIPASS is the solution that suggests changing all your loyalty cards with only
 MOKIPASS  is the cards‘ wallet in your Smartphone. Keep all your loyalty cards in your Smartphone. Now you can keep all your loyalty cards in MOKIPASS. Anytime you can view merchant’s offers and the history of your purchases and share the cards’ advantages with your family.
 
 
-#Features
+##Features
 Currently Mokipass supports the following:
-Generate SSO ID
-Check loyalty cards
-Add new loyalty card
-Activete loyalty card
+Generate SSO ID;
+Check loyalty cards;
+Add new loyalty card;
+Activete loyalty card;
 
 
-#Usage
+##Usage
 //application components in protected/config
   
 
