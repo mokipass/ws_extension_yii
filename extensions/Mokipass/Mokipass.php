@@ -15,26 +15,26 @@
   * Call Mokipass Web Service example
   * 
   * 
-    Yii::app()->Mokipass->POS_ID='POS ID'; 
-    $a=Yii::app()->Mokipass->get_sso_id(1);
-    
-    echo $a[0].'<br/>'; 
-    echo $a[1].'<br/>'; 
-    
-    $b=Yii::app()->Mokipass->checkCard($a[1],'number of card','1','2',1);
-    echo $b[0].'<br/>'; 
-    echo $b[1].'<br/>'; 
-    echo $b[2].'<br/>'; 
-    echo $b[3].'<br/>'; 
-    echo $b[4].'<br/>'; 
-    
-    $c=Yii::app()->Mokipass->addCard($a[1],1, 6, null, 'number of card', 'new number of card or null if card is virtual',1);
-    echo $c[0].'<br/>'; 
-    echo $c[1].'<br/>'; 
-    echo $c[2].'<br/>'; 
-    echo $c[3].'<br/>'; 
-    
-    
+  *  Yii::app()->Mokipass->POS_ID='POS ID'; 
+  *  $a=Yii::app()->Mokipass->get_sso_id(1);
+  *  
+  *  echo $a[0].'<br/>'; 
+  *  echo $a[1].'<br/>'; 
+  *  
+  *  $b=Yii::app()->Mokipass->checkCard($a[1],'number of card','1','2',1);
+  *  echo $b[0].'<br/>'; 
+  *  echo $b[1].'<br/>'; 
+  *  echo $b[2].'<br/>'; 
+  *  echo $b[3].'<br/>'; 
+  *  echo $b[4].'<br/>'; 
+  *  
+  *  $c=Yii::app()->Mokipass->addCard($a[1],1, 6, null, 'number of card', 'new number of card or null if card is virtual',1);
+  *  echo $c[0].'<br/>'; 
+  *  echo $c[1].'<br/>'; 
+  *  echo $c[2].'<br/>'; 
+  *  echo $c[3].'<br/>'; 
+  *  
+  *  
   * 
   */
  
