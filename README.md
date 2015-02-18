@@ -6,7 +6,7 @@ Mokipass Web Service extension
 
 #Usage
 
-// application components
+// application components in protected/config
 	'components'=>array(
     
     'Mokipass'=>array (
@@ -15,5 +15,5 @@ Mokipass Web Service extension
         'username'=>'user_name',
         'password'=>'password',
     ), 
-
+),
 
