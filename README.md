@@ -5,9 +5,13 @@ MOKIPASS  is the cards‘ wallet in your Smartphone. Keep all your loyalty cards
 
 ##Features
 Currently Mokipass supports the following:
+
 Generate SSO ID;
+
 Check loyalty cards;
+
 Add new loyalty card;
+
 Activete loyalty card;
 
 
