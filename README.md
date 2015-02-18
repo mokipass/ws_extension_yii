@@ -16,11 +16,12 @@ Currently Mokipass supports the following:
   
 
     'components'=>array (
-    'Mokipass'=>array (
+      'Mokipass'=>array (
         'class'=>'application.extensions.Mokipass.Mokipass',
         'POS_ID'=>null,
         'username'=>'user_name',
         'password'=>'password',
+      ), 
     ), 
-),
+
 
