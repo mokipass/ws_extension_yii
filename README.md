@@ -14,7 +14,6 @@ Currently Mokipass supports the following:
 #Usage
 //application components in protected/config
 'components'=>array (
-    
     'Mokipass'=>array (
         'class'=>'application.extensions.Mokipass.Mokipass',
         'POS_ID'=>null,
